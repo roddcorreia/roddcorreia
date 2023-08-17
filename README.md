@@ -1,7 +1,7 @@
 
 ### Olá! Me chamo Rodrigo Correia 👋🏼🎶
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/roddcorreiadev.com](https://www.linkedin.com/in/rodrigo-de-souza-correia-056774237/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigo-de-souza-correia-056774237)
 [![Behance](https://img.shields.io/badge/-Behance-000000?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rodrigocorreia25)
 [![Instagram]( 	https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodd.bass/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vercel.com/Devrodd)
